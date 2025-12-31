@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>I enjoy building real-world projects using Java, JavaScript, and web technologies.<br><br>I like writing clean, simple, and efficient code.<br><br>I am currently improving my problem-solving skills.<br><br>I enjoy exploring new tools, frameworks, and technologies.<br><br>I believe in continuous learning and self-improvement.<br><br>I am interested in open-source contributions and collaboration.<br><br>I aim to become a skilled software engineer in the tech industry.<br><br>I use GitHub to learn, build, and showcase my projects.
+<br>I enjoy building real-world projects using Java, JavaScript, and web technologies.<br><br>I like writing simple, and efficient code.<br><br>I am currently improving my problem-solving skills.<br><br>I enjoy exploring new tools, frameworks, and technologies.<br><br>I believe in continuous learning and self-improvement.<br><br>I am interested in open-source contributions and collaboration.<br><br>I aim to become a skilled software engineer in the tech industry.<br><br>I use GitHub to learn, build, and showcase my projects.
 
 
 ## 🌐 Socials:
